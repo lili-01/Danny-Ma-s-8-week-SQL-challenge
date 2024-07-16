@@ -1,3 +1,4 @@
+🍜 Case Study #1: Danny's Diner
 -- Here we are creating the tables --
 
 CREATE SCHEMA dannys_diner;
